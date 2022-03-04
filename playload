@@ -1,0 +1,18 @@
+//login playload
+{
+"payload":{
+		"user_name":"kevin123",
+		"user_password":"Kevin@123"
+	
+	       
+}}
+
+
+//// Create account 
+{
+"payload":{
+		"user_name":"kevin1234",
+		"user_email":"Kevin1@gmail.com",
+		"user_password":"Kevin@123"
+	       
+}}
